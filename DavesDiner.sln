@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DavesDinerDB", "DavesDinerDB\DavesDinerDB.sqlproj", "{DD5C44AE-18B7-41C3-BBAD-9F847EED0C27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLibrary", "DataLibrary\DataLibrary.csproj", "{44FD61D2-80CF-44C7-9A54-903CCE518397}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{DD5C44AE-18B7-41C3-BBAD-9F847EED0C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD5C44AE-18B7-41C3-BBAD-9F847EED0C27}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DD5C44AE-18B7-41C3-BBAD-9F847EED0C27}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{44FD61D2-80CF-44C7-9A54-903CCE518397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FD61D2-80CF-44C7-9A54-903CCE518397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FD61D2-80CF-44C7-9A54-903CCE518397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FD61D2-80CF-44C7-9A54-903CCE518397}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
